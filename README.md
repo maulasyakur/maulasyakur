@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Computer Engineering Student**  
 
-I'm a second-year Computer Engineering student passionate about building web applications and exploring game development. Currently specializing in modern web technologies with 1 year of hands-on experience in **Next.js, React, and Supabaw** full-stack development.
+I'm a second-year Computer Engineering student passionate about building web applications and exploring game development. Currently specializing in modern web technologies with 1 year of hands-on experience in **Next.js, React, and Supabase** full-stack development.
 
 ---
 
