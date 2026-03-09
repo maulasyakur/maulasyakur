@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Computer Engineering Student**  
 
-I'm a second-year Computer Engineering student passionate about building web applications and exploring game development. Currently specializing in modern web technologies with 1 year of hands-on experience in **Next.js, React, and Supabase** full-stack development.
+I'm a third-year Computer Engineering student passionate about building web applications and exploring game development. Currently specializing in modern web technologies with 1 year of hands-on experience in **Next.js, React, and Supabase** full-stack development.
 
 ---
 
@@ -35,7 +35,7 @@ I'm a second-year Computer Engineering student passionate about building web app
 ## 🎓 Education  
 **Bachelor of Computer Engineering**  
 Hacettepe University - Expected Graduation: 2027  
-- Relevant Courses: Data Structures & Algorithms (C++/Java), and Computer Architecture
+- Relevant Courses: Data Structures & Algorithms (C++/Java), Computer Architecture, and Computer Networks and Security
 
 ---
 
